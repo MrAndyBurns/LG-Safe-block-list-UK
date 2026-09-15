@@ -28,3 +28,4 @@ gb.emp.lgsmartplatform.com
 eic.api.lgtviot.com
 eic.tv.wiselg.com
 eic.recommend.lgtvcommon.com
+gb.lgeapi.com
