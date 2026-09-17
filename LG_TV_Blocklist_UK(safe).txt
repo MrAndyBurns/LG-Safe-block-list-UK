@@ -29,3 +29,5 @@ eic.api.lgtviot.com
 eic.tv.wiselg.com
 eic.recommend.lgtvcommon.com
 gb.lgeapi.com
+gb.elastic.lgwebostv.com
+gb.app.lgwebostv.com
