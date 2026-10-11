@@ -31,3 +31,7 @@ eic.recommend.lgtvcommon.com
 gb.lgeapi.com
 gb.elastic.lgwebostv.com
 gb.app.lgwebostv.com
+snu.lge.com
+nrdp.push.prod.netflix.com
+nrdp.prod.ftl.netflix.com
+unagi-eu.amazon.com
