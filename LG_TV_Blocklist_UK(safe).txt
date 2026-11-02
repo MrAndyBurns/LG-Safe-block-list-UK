@@ -37,3 +37,5 @@ nrdp.prod.ftl.netflix.com
 unagi-eu.amazon.com
 discovery.meethue.com
 www.ueiwsp.com
+threeplr-arb2qcqet6ukp-0.zaz.api.amazonvideo.com
+
